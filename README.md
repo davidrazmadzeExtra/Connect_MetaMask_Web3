@@ -1,4 +1,4 @@
-# Connect MeteMask to Web 3 App - ReactJS
+# Connect MetaMask to Web 3 App - ReactJS
 
 https://docs.ethers.io/v5/
 
